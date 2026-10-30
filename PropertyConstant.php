@@ -1,6 +1,8 @@
+
 <?php
 namespace Pbo\Marketplace;
 class Produk {
+
     // Property
     public string $kode;
     public string $nama;
